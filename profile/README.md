@@ -1,6 +1,6 @@
 # NIX 🇺🇦
 
-We are an outsourcing company from Kharkiv, Ukraine. 
+We are an outsourcing team from Kharkiv, Ukraine. 
 
 We share the values of open source and hope our projects will help the community to develop. 
 
